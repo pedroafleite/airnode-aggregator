@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T12:50:30.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Q_lKsqsi8h_ZLoRYfmzR" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T14:37:42.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qGksdoahRHv-aw_lftYu" version="16.2.4" type="github">
   <diagram id="Vvutmy3dNaSM0Lm1iPfc" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QS_XNBw1Wf9equ_Zfux--1" value="&lt;b&gt;Provider&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="380" height="70" as="geometry" />
+          <mxGeometry x="385" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QS_XNBw1Wf9equ_Zfux--2" value="&lt;b&gt;Provider Record&lt;/b&gt;&lt;br&gt;&lt;br&gt;ProviderStore.sol" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="80" width="120" height="130" as="geometry" />
+          <mxGeometry x="380" y="90" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QS_XNBw1Wf9equ_Zfux--6" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Authorizer&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=oval;endFill=0;endSize=8;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QS_XNBw1Wf9equ_Zfux--1" target="QS_XNBw1Wf9equ_Zfux--2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="510" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QS_XNBw1Wf9equ_Zfux--8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
+          <mxGeometry x="426" y="220" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
